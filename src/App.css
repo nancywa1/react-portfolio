@@ -32,7 +32,6 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  /* background: var(--dark); */
   background-image: url("./assets/images/cover-image.jpeg");
   color: var(--light);
   font-family: 'Poiret One', cursive;
@@ -96,16 +95,13 @@ header h2{
 header nav {
   text-decoration: none;
   position: fixed;
-/* float: right; */
   right:0;
 }
 header nav ul li{
   padding: 10px 15px;}
 
   header nav ul li:hover {
-    /* background: var(--primary); */
     color: var(--secondary);
-    /* border-radius: 15px; */
     text-shadow: none;
 }
 header a {
