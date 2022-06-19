@@ -1,7 +1,7 @@
 import React from "react";
 import projectPic from "../../assets/images/hero-bg.jpg";
 import photoPort from "../../assets/images/photosnap.jpg";
-function Portfolio(props) {
+function Portfolio() {
   return (
     <section className="my-5">
       <h1>Portfolio</h1>
