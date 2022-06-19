@@ -36,6 +36,7 @@ body {
   background-image: url("./assets/images/cover-image.jpeg");
   color: var(--light);
   font-family: 'Poiret One', cursive;
+  background-size: cover;
 }
 
 h1,
@@ -261,6 +262,7 @@ button {
 footer{
   display: flex;
   justify-content: center;
+  padding-bottom: 20px;
 }
 footer a:hover{
   padding: 0 10px;
