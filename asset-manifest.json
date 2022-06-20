@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nancywa1/react-portfolio/static/css/main.2aa72378.chunk.css",
-    "main.js": "/nancywa1/react-portfolio/static/js/main.91d34cee.chunk.js",
-    "main.js.map": "/nancywa1/react-portfolio/static/js/main.91d34cee.chunk.js.map",
-    "runtime-main.js": "/nancywa1/react-portfolio/static/js/runtime-main.b062ba1c.js",
-    "runtime-main.js.map": "/nancywa1/react-portfolio/static/js/runtime-main.b062ba1c.js.map",
+    "main.css": "/nancywa1/react-portfolio/static/css/main.b9d9ac21.chunk.css",
+    "main.js": "/nancywa1/react-portfolio/static/js/main.522c3e25.chunk.js",
+    "main.js.map": "/nancywa1/react-portfolio/static/js/main.522c3e25.chunk.js.map",
+    "runtime-main.js": "/nancywa1/react-portfolio/static/js/runtime-main.7b42654b.js",
+    "runtime-main.js.map": "/nancywa1/react-portfolio/static/js/runtime-main.7b42654b.js.map",
     "static/js/2.6b12fa80.chunk.js": "/nancywa1/react-portfolio/static/js/2.6b12fa80.chunk.js",
     "static/js/2.6b12fa80.chunk.js.map": "/nancywa1/react-portfolio/static/js/2.6b12fa80.chunk.js.map",
-    "static/js/3.cda7ccee.chunk.js": "/nancywa1/react-portfolio/static/js/3.cda7ccee.chunk.js",
-    "static/js/3.cda7ccee.chunk.js.map": "/nancywa1/react-portfolio/static/js/3.cda7ccee.chunk.js.map",
+    "static/js/3.ed3e362f.chunk.js": "/nancywa1/react-portfolio/static/js/3.ed3e362f.chunk.js",
+    "static/js/3.ed3e362f.chunk.js.map": "/nancywa1/react-portfolio/static/js/3.ed3e362f.chunk.js.map",
     "index.html": "/nancywa1/react-portfolio/index.html",
-    "static/css/main.2aa72378.chunk.css.map": "/nancywa1/react-portfolio/static/css/main.2aa72378.chunk.css.map",
+    "static/css/main.b9d9ac21.chunk.css.map": "/nancywa1/react-portfolio/static/css/main.b9d9ac21.chunk.css.map",
     "static/js/2.6b12fa80.chunk.js.LICENSE.txt": "/nancywa1/react-portfolio/static/js/2.6b12fa80.chunk.js.LICENSE.txt",
     "static/media/Resume.b8247914.pdf": "/nancywa1/react-portfolio/static/media/Resume.b8247914.pdf",
-    "static/media/App.css": "/nancywa1/react-portfolio/static/media/cover-image.235d908a.jpeg",
+    "static/media/index.css": "/nancywa1/react-portfolio/static/media/cover-image.235d908a.jpeg",
     "static/media/hero-bg.44629e63.jpg": "/nancywa1/react-portfolio/static/media/hero-bg.44629e63.jpg",
     "static/media/photosnap.533ae8f6.jpg": "/nancywa1/react-portfolio/static/media/photosnap.533ae8f6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b062ba1c.js",
+    "static/js/runtime-main.7b42654b.js",
     "static/js/2.6b12fa80.chunk.js",
-    "static/css/main.2aa72378.chunk.css",
-    "static/js/main.91d34cee.chunk.js"
+    "static/css/main.b9d9ac21.chunk.css",
+    "static/js/main.522c3e25.chunk.js"
   ]
 }
