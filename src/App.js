@@ -4,7 +4,6 @@ import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import ContactForm from "./components/Contact";
 import Resume from "./components/Resume";
-import "./App.css";
 
 function App() {
   const [resumeSelected, setResumeSelected] = useState(false);
