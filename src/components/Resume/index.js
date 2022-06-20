@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../assets/Resume.pdf";
+import resume from "../../assets/file/Resume.pdf";
 function Resume(props) {
   return (
     <section className="my-5">
