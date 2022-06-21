@@ -2,7 +2,7 @@
   "name": "react-self-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nancywa1/react-portfolio/",
+  "homepage": "https://nancywa1.github.io/react-portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
